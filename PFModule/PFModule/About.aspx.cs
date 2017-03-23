@@ -15,12 +15,12 @@ namespace PFModule
             string v = "hp computer";
 
 
-            string country="pakistan";
+            string country = "pakistan";
             string city = "maripur";
 
 
-            string street="E 10";
-             string street2="E 2332310";
+            string street = "E 10";
+            string street2 = "metorville site karachi";
         }
     }
 }
