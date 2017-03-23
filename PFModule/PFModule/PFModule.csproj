@@ -56,7 +56,8 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
-    <Content Include="Master.aspx" />
+    <Content Include="Branch001.aspx" />
+    <Content Include="Branch002.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
@@ -106,15 +107,22 @@
     <Compile Include="Account\Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="Master.aspx.cs">
-      <DependentUpon>Master.aspx</DependentUpon>
+    <Compile Include="Branch001.aspx.cs">
+      <DependentUpon>Branch001.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Master.aspx.designer.cs">
-      <DependentUpon>Master.aspx</DependentUpon>
+    <Compile Include="Branch001.aspx.designer.cs">
+      <DependentUpon>Branch001.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Branch002.aspx.cs">
+      <DependentUpon>Branch002.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Branch002.aspx.designer.cs">
+      <DependentUpon>Branch002.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
