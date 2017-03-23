@@ -17,6 +17,9 @@ namespace PFModule
 
             string country="pakistan";
             string city = "maripur";
+
+
+            string street="E 10";
         }
     }
 }
