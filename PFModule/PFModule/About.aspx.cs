@@ -18,14 +18,11 @@ namespace PFModule
             string country = "pakistan";
             string city = "maripur";
 
-
-<<<<<<< HEAD
-            string street="E 10";
-             string street2="E25 mominabad";
-=======
             string street = "E 10";
-            string street2 = "metorville site karachi";
->>>>>>> 6bc6a65050dd4baa1c0ec8d64d7b74c175b9a1aa
+            string street2 = "metorville site karachi ";
+
+            string branch="branch II";
+
         }
     }
 }
