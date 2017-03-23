@@ -16,7 +16,7 @@ namespace PFModule
 
 
             string country="pakistan";
-            string city = "peshawar";
+            string city = "sakkar";
         }
     }
 }
