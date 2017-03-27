@@ -12,7 +12,9 @@ namespace PFModule
         protected void Page_Load(object sender, EventArgs e)
         {
             string branch = "Branch - 003";
-            string branch2 = "Branch - 003";
+            string branch3 = "Branch - 003";
+            string branch4 = "Branch - 004";
+            string branch5 = "Branch - 005";
         }
     }
 }
