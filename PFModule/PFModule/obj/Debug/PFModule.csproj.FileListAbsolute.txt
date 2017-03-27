@@ -2,3 +2,4 @@ E:\Git\DotNet\PFModule\PFModule\bin\PFModule.dll
 E:\Git\DotNet\PFModule\PFModule\bin\PFModule.pdb
 E:\Git\DotNet\PFModule\PFModule\obj\Debug\PFModule.dll
 E:\Git\DotNet\PFModule\PFModule\obj\Debug\PFModule.pdb
+E:\Git\DotNet\PFModule\PFModule\obj\Debug\PFModule.csprojResolveAssemblyReference.cache
